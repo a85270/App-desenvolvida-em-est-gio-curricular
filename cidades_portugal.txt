@@ -1,0 +1,80 @@
+Albufeira: 67a8bce9-f76b-4a8c-8b83-79f8d37bd6a2
+Alcobaça: 86b2c53c-1f22-4ee1-8661-28699cb8ee91
+Almada: c4f613b1-7869-4eac-aa06-27b7a28eedcb
+Almancil: 8f2f29ea-01dd-4c8d-bdfc-6124a49301b9
+Amarante: 6c35a5a3-3043-46d6-83d8-f8f3aaa651f7
+Aveiro: 86584bb1-a08f-44e0-a576-c911e85996e5
+Barcelos: cb682cf8-0b5c-42d7-9cab-e91d4285f1db
+Batalha: ae907c73-befc-4823-9500-ab49ddab24f7
+Bornes de Aguiar: 74b20d4a-cc6c-4dcb-b4db-d6dd492e4fa0
+Braga: 6c664e12-b4d8-40cb-94d1-f2958baba419
+Bóbeda: c7e43eb1-0dd1-439a-ada1-74a804e92d54
+Caldas da Rainha: 5de7cdf8-6f18-4027-8b40-95c3c6f7ae20
+Caminha: 95133a6c-3548-4d14-9cd9-fc020e86b78f
+Carrica: b474ea14-660f-4028-8c86-029695ce7954
+Cascais: 357d27b9-4d7c-46f3-84bf-7bdcf1bbba5f
+Castelo Branco: 96ad6347-173a-47d8-b636-fb36339bf7bb
+Celorico da Beira: 5d22a230-b85f-4189-b7ea-947d42eb6f0c
+Chaves: 2881a846-6013-4f1b-897a-2bd13b6084a9
+Coimbra: 216860c2-aae8-4723-9a8f-299c22c6ba75
+Covilhã: a3f01dd0-6985-45e4-ac7a-dbbae8555993
+Esposende: ae155940-2279-4fb3-96c4-38f71bf1312e
+Fafe: 642c4bb4-563f-4c7d-8df1-a4c698636e20
+Famalicão: 2467b1dd-4674-43a3-9823-f491f8f4a96a
+Faro: d0189569-bd3c-461f-9906-3bb7ebd9f65f
+Faro (Aeroporto): 6dc35a0d-fcb3-479c-8bf2-f338988a3399
+Fatima: 9c47c36e-c6b3-484e-a0aa-dd83a0500db8
+Figueira da Foz: 3d69f371-1520-40d1-b7d9-1a9852d71a66
+Fundão: adcfb13e-4752-4d9a-ad6f-55c83bce8cd7
+Ginjal: d1d7f259-9157-486b-87eb-635b577526c2
+Guarda: 98be065a-1255-4749-8048-17e8156375b5
+Guimarães: 216e3eae-464c-4314-9316-82f63b45bf33
+Lagos: 8f54b18f-0152-4225-96b4-f2629988c5cf
+Leiria: b827b9f0-7a91-4c4a-a438-615dee1b55ef
+Lisboa: 14eefc82-b630-4aea-88dc-eb91e0b9d482
+Lisboa (Aeroporto): b0b30c2e-ad59-4583-a115-c9c4c21cec16
+Lourosa: 5cdcd06e-fd96-4405-be07-9655bb0de76b
+Macedo de Cavaleiros: 6111e8c6-754d-4677-a1f4-17638d9da6c0
+Marinha Grande: 338b24b3-29bd-4acd-a09a-253b493fb797
+Melgaço: 41cdd294-3869-4321-8df9-4f697312a553
+Mirandela: 3f562a31-1a93-4b3b-85ea-b17a856d6913
+Monte Gordo: 8ba17d93-1908-4064-a6d0-89ea06398982
+Monção: 8934062a-c9a4-44c7-9dbe-4918f0c4a4e3
+Murça: d9afbfb7-607e-4322-9b2a-538d4a14b6b8
+Nazaré: 2a0ca151-219f-4ff4-ae9d-768c713b9bf9
+Odeceixe: 17849c44-1109-4775-805d-a50524a34eca
+Oliveira do Hospital: 99ca9dc5-1ac9-4bb7-bfad-3828ee2ae506
+Outeiro Jusão: 38a16149-c04f-45b8-aa49-d519a1633ae0
+Pedras Salgadas: 71fa912b-40b2-4b50-bce9-816801c85849
+Penafiel: d5803b16-2e7a-4a9c-9e16-a92c2f6a4984
+Peniche: bccba449-2b66-42d0-acc8-3188b28f6d04
+Pombal: 737f2de4-7bd7-4bcc-aea7-e4fe72ff6f44
+Ponte de Lima: 42aafff6-6b4f-4b56-993b-11455972b915
+Portimão: d53fab69-f848-46c8-8b8d-07624e34df5f
+Porto: 74923e7b-3ace-43d2-8278-41ee00193a85
+Porto (Aeroporto): 76720cdd-f225-411b-88e4-389ddc37c58d
+Póvoa do Varzim: c68e2885-35ac-4562-b9b4-79e68749bb84
+Quarteira: b62a9cc0-2bc9-47ad-8d1d-a008c3d2c7ee
+Rio Maior: 9a7497b3-e78a-4893-8247-d8e442d87a6d
+Sabroso: 6ec775de-3022-4515-ad71-bcee86327e72
+Santarém: 93460a71-c42c-4394-a662-e9d02de51ec3
+Sines: a8d81251-dbe5-4bb7-9bd2-6a1c6c9ac19d
+Sintra: eab6cf26-5110-4e42-80b8-4d6d01e2d076
+Soutelo de Aguiar: 20586ecc-8632-41f9-9c3a-2d65f8548712
+São João da Madeira: 9629ef96-5679-4de6-bb21-6ded1730dee4
+Tavira: 90c77af3-614b-4f7b-ba32-2ac1c6bddec4
+Telões: 5872c98b-6674-473f-af2a-d22b5ed823b3
+Tomar: da267d58-d135-4da1-b5b6-d714ebbcd9d8
+Tondela: 602b44aa-eba9-4bac-b8f1-e3ae04f557b2
+Torres Novas: 144b6a3c-21ff-46fa-a3cc-fcad4ba79f24
+Torres Vedras: a17a73b7-efed-4833-9bc1-50cb6318b616
+Viana do Castelo: 8512e8db-fcb6-4956-bdea-a571f7ff9adc
+Vila Nova de Cerveira: 13aaacdf-15b0-4d9d-91c5-8cf777e633a9
+Vila Nova de Milfontes: 188a968b-5efd-4288-8ae6-8ce543f4883f
+Vila Nova de Veiga: 49f68eac-e251-4842-8b75-f493a9c5d9f6
+Vila Real: a7077922-5598-499a-a2b3-0c3cc54703dd
+Vila Real de Santo António: a663f500-c666-43ee-ae00-376bd34e7261
+Vilamoura: 7b2214c9-b86a-410a-bb18-786d2cce5ed2
+Viseu: 219d6bc8-e9a6-4cef-a40f-20011f772c4e
+Zambujeira do Mar: c0e5f662-e22c-4f9e-a66a-227f6a98d3ff
+Évora: c8a00100-02fd-424b-be9c-320c481a98d6
